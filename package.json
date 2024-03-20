@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "iniciar_index": "node index.js",
-    "start": "node app.js"
+    "start": "node app.js",
+    "startoperators":"node operators.js"
 
   },
   "keywords": [],
