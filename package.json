@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "iniciar_index": "node index.js",
     "start": "node app.js",
-    "startoperators":"node operators.js"
+    "startoperators":"node operators.js",
+    "iniciar_comparacion": "temas/operadores_comparacion.js",
+    "iniciar_strings": "temas/strings.js"
+
 
   },
   "keywords": [],
