@@ -9,7 +9,10 @@
     "start": "node app.js",
     "startoperators":"node operators.js",
     "iniciar_comparacion": "temas/operadores_comparacion.js",
-    "iniciar_strings": "temas/strings.js"
+    "iniciar_strings": "temas/strings.js",
+    "arrays":"node arrays.js",
+    "objetos":"node objetos.js",
+    "while":"node while.js"
 
 
   },
